@@ -11,6 +11,7 @@
 - 🏢 I am currently working as a **Freelance software developer**
 - 🏢 Graduate at [ALX](https://www.alxafrica.com) **Software Engineering Programming**
 - 🎓 Graduate at [University Of Nairobi](https://www.uonbi.ac.ke/) Geospatial Engineering
+- Check out my resume [here](https://github.com/lucydevonne/resume/blob/main/LUCY%20MURIITHI%20RESUME%20.pdf)
 - ⚡ **Fun Facts** : ✈️ 💅 💻 🙏
 
 <br>
