@@ -8,11 +8,10 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Freelance software developer**
-- 🏢 Graduate at [ALX](https://www.alxafrica.com) **Software Engineering Programming**
-- 🎓 Graduate at [University Of Nairobi](https://www.uonbi.ac.ke/) Geospatial Engineering
-- Check out my resume [here](https://github.com/lucydevonne/resume/blob/main/LUCY%20MURIITHI%20RESUME%20.pdf)
-- ⚡ **Fun Facts** : ✈️ 💅 💻 🙏
+- 🏢 I am currently a **Software Engineering Fellow** at [Headstarter](https://headstarter.co/)
+- 🎓 Bachelor of Science in **Geospatial Engineering** from [University Of Nairobi](https://www.uonbi.ac.ke/) and SWE Program in [ALX](https://www.alxafrica.com)
+- 📄 Check out my [Resume](https://github.com/lucydevonne/resume/blob/main/LUCY%20MURIITHI%20RESUME%20.pdf)
+- ⚡ **Fun Facts** : ✈️ 💅 💻 🙏 value spirituality.
 
 <br>
 
@@ -28,11 +27,12 @@
 
 ## What I am Good at 🧑‍💻 :
 
-<br>
+<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/mysql.png"/> <img src="https://img.icons8.com/color/48/000000/postgresql.png"/> <img src="https://img.icons8.com/color/48/000000/sqlite.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/postman-api.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/> 
-
-<br>
+### Other:
+- REST APIs
+- Distributed Systems
+- AI/ML Technologies
 
 ## GitHub Stats 📈 :
 
@@ -53,6 +53,6 @@
 
 Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
-Last edited on: 01/06/2024
+Last edited on: 08/14/2024
 
 
