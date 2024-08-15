@@ -10,7 +10,7 @@
 
 - 🏢 I am currently a **Software Engineering Fellow** at [Headstarter](https://headstarter.co/)
 - 🎓 Bachelor of Science in **Geospatial Engineering** from [University Of Nairobi](https://www.uonbi.ac.ke/) and SWE Program in [ALX](https://www.alxafrica.com)
-- 📄 Check out my [Resume](https://github.com/lucydevonne/resume/blob/main/LUCY%20MURIITHI%20RESUME1%20.pdf)
+- 📄 Check out my [Resume](https://github.com/lucydevonne/resume/blob/main/LUCY%20MURIITHI%20RESUME1%20.pdf) and [Website](https://lucydevonne.github.io/Personal-Portfolio-Website/)
 - ⚡ **Fun Facts** : ✈️ 💅 💻 🙏
 
 <br>
