@@ -8,7 +8,7 @@
 
 ## About Me :
 
-- 🏢 I am currently a **Software Engineering Fellow** at [Headstarter](https://headstarter.co/)
+- 🏢 I am currently a **Software Engineering Resident** at [Headstarter](https://headstarter.co/)
 - 🎓 Bachelor of Science in **Geospatial Engineering** from [University Of Nairobi](https://www.uonbi.ac.ke/) and SWE Program in [ALX](https://www.alxafrica.com)
 - 📄 Check out my [Resume](https://github.com/lucydevonne/resume/blob/main/LUCYMURIITHI.pdf) and [Website](https://lucydevonne.github.io/Personal-Portfolio-Website/).
 - ⚡ **Fun Facts** : ✈️ 💅 💻 🙏
