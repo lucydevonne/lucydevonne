@@ -115,12 +115,6 @@
   <a href="https://github.com/lucydevonne">
     <img src="https://img.shields.io/badge/GitHub-lucydevonne-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://lucydevonne.github.io/Personal-Portfolio-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/lucyscoding/">
-    <img src="https://img.shields.io/badge/Instagram-@lucyscoding-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 <br />
