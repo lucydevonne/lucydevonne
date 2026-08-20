@@ -28,8 +28,6 @@
 - 🤖 Building with **RAG, AI agents, LLM integrations, LangChain, LangGraph, and MCP**
 - 🧪 Experienced with **Pytest, API testing, Docker, GitHub Actions, and CI/CD**
 - 🌍 Transitioned from geospatial engineering to software engineering, bringing strong analytical and data-modeling skills
-- 📄 View my [résumé](https://github.com/lucydevonne/resume/blob/main/LUCYMURIITHI.pdf)
-- 🌐 Visit my [portfolio](https://lucydevonne.github.io/Personal-Portfolio-Website/)
 
 <br />
 
