@@ -85,28 +85,6 @@
 
 </div>
 
-<br />
-
-## 🚀 Featured Work
-
-### 📈 Stock Analysis with LLMs
-
-An automated stock research platform built with **Python, React, Tailwind CSS, Pinecone, and LangChain**.
-
-- Processed profiles for more than **8,000 SEC-listed companies**
-- Built semantic search using Hugging Face embeddings and Pinecone
-- Added retry logic and exponential backoff to handle external API rate limits
-- Designed an analytical dashboard for equity research
-
-### 🏦 Customer Churn Prediction
-
-A machine-learning inference system that predicts customer churn risk from banking data.
-
-- Combined **XGBoost, Random Forest, and KNN** predictions
-- Used an OpenAI-compatible Groq client to generate understandable insights
-- Translated model results into three insights and one recommended retention action
-
-<br />
 
 ## 📊 GitHub Activity
 
