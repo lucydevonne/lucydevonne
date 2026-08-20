@@ -26,8 +26,6 @@
 
 - 🐍 Backend & AI Engineer with **2+ years of experience** building scalable services and intelligent applications
 - 🤖 Building with **RAG, AI agents, LLM integrations, LangChain, LangGraph, and MCP**
-- ⚡ Improved RAG ingestion performance by **40%** across **8,000+ SEC-listed stocks**
-- 🧠 Improved AI-generated code accuracy by **20%** after auditing **1,000+ Python solutions**
 - 🧪 Experienced with **Pytest, API testing, Docker, GitHub Actions, and CI/CD**
 - 🌍 Transitioned from geospatial engineering to software engineering, bringing strong analytical and data-modeling skills
 - 📄 View my [résumé](https://github.com/lucydevonne/resume/blob/main/LUCYMURIITHI.pdf)
